@@ -1,0 +1,216 @@
+{
+  "super_herois": [
+    {
+      "equipe": "Vingadores",
+        "herois": [
+            {
+            "nome_do_heroi": "Homem de Ferro",
+            "nome_na_vida_real": "Tony Stark",
+            "ocupacao": "Empresário, Inventor, Filantropo",
+            "poderes": ["Inteligência genial", "Armadura de alta tecnologia com voo, rajadas de repulsores e proteção avançada"],
+            "inimigos": ["Monk Stane (Monge de Ferro)", "Mandarim", "Whiplash", "Ultron"],
+            "filmes": ["Homem de Ferro", "Homem de Ferro 2", "Homem de Ferro 3", "Os Vingadores", "Vingadores: Era de Ultron", "Capitão América: Guerra Civil", "Vingadores: Guerra Infinita", "Vingadores: Ultimato"],
+            "hex_cor": ["#B31B1B"],
+            "imagem": ["https://www.stickpng.com/pt-br/cat/quadrinhos-e-fantasia/homem-de-ferro?page=1"]
+            },
+            {
+            "nome_do_heroi": "Capitão América",
+            "nome_na_vida_real": "Steve Rogers",
+            "ocupacao": "Soldado",
+            "poderes": ["Força, agilidade e resistência sobre-humanas", "Mestre em artes marciais", "Escudo de Vibranium indestrutível"],
+            "inimigos": ["Caveira Vermelha", "Soldado Invernal (anteriormente)", "Ossos Cruzados", "Barão Zemo"],
+            "filmes": ["Capitão América: O Primeiro Vingador", "Os Vingadores", "Capitão América: O Soldado Invernal", "Vingadores: Era de Ultron", "Capitão América: Guerra Civil", "Vingadores: Guerra Infinita", "Vingadores: Ultimato"],
+            "hex_cor": ["#002868"],
+            "imagem": ["https://i.pinimg.com/736x/98/97/f6/9897f6768f2fb3cb467742a214aa0270.jpg"]
+            },
+            {
+            "nome_do_heroi": "Thor",
+            "nome_na_vida_real": "Thor Odinson",
+            "ocupacao": "Rei de Asgard / Protetor dos Nove Reinos",
+            "poderes": ["Fisiologia de Deus do Trovão", "Superforça e invulnerabilidade", "Manipulação de raios e trovões", "Voo com Mjolnir/Stormbreaker"],
+            "inimigos": ["Loki (anteriormente)", "Hela", "Gorr o Carniceiro dos Deuses", "Malekith"],
+            "filmes": ["Thor", "Os Vingadores", "Thor: O Mundo Sombrio", "Vingadores: Era de Ultron", "Thor: Ragnarok", "Vingadores: Guerra Infinita", "Vingadores: Ultimato", "Thor: Amor e Trovão"],
+            "hex_cor": ["#A60C0C"],
+            "imagem":["https://i.pinimg.com/736x/c9/3c/1e/c93c1efdb8967dc6efe173a4b45c1617.jpg"]
+            },
+            {
+            "nome_do_heroi": "Hulk",
+            "nome_na_vida_real": "Bruce Banner",
+            "ocupacao": "Cientista / Físico Nuclear",
+            "poderes": ["Força física quase ilimitada", "Resistência extrema", "Fator de cura acelerado", "Saltos gigantescos"],
+            "inimigos": ["Abominação", "Líder", "General Ross"],
+            "filmes": ["O Incrível Hulk", "Os Vingadores", "Vingadores: Era de Ultron", "Thor: Ragnarok", "Vingadores: Guerra Infinita", "Vingadores: Ultimato"],
+            "hex_cor": ["#556B2F"],
+            "imagem": ["https://pt.pinterest.com/ideas/fotos-do-hulk-jogador/907457130198/"]
+            },
+            {
+            "nome_do_heroi": "Viúva Negra",
+            "nome_na_vida_real": "Natasha Romanoff",
+            "ocupacao": "Espiã, Agente da S.H.I.E.L.D.",
+            "poderes": ["Mestre em artes marciais e espionagem", "Pico de condição humana", "Especialista em armas e táticas"],
+            "inimigos": ["Treinador (Taskmaster)", "Dreykov"],
+            "filmes": ["Homem de Ferro 2", "Os Vingadores", "Capitão América: O Soldado Invernal", "Vingadores: Era de Ultron", "Capitão América: Guerra Civil", "Vingadores: Guerra Infinita", "Vingadores: Ultimato", "Viúva Negra"],
+            "hex_cor": ["#1A1A1A"],
+            "imagem":["https://static.wikia.nocookie.net/universocinematograficomarvel/images/3/38/Nat_BW.jpg/revision/latest?cb=20211229224720&path-prefix=pt"]
+            }
+            ]
+},
+{
+    "equipe": "X-Men",
+        "herois": [
+            {
+            "nome_do_heroi": "Wolverine",
+            "nome_na_vida_real": "Logan / James Howlett",
+            "ocupacao": "Soldado, Instrutor",
+            "poderes": ["Fator de cura mutante", "Esqueleto e garras revestidos de Adamantium", "Sentidos aguçados"],
+            "inimigos": ["Dentes-de-Sabre", "Lady Letal", "William Stryker", "X-24"],
+            "filmes": ["X-Men", "X-Men 2", "X-Men: O Confronto Final", "X-Men Origens: Wolverine", "X-Men: Dias de um Futuro Esquecido", "Wolverine: Imortal", "Logan", "Deadpool & Wolverine"],
+            "hex_cor": ["#FFCC00"],
+            "imagem":[""]
+            },
+            {
+            "nome_do_heroi": "Professor X",
+            "nome_na_vida_real": "Charles Xavier",
+            "ocupacao": "Líder dos X-Men, Professor, Geneticista",
+            "poderes": ["Telepatia de nível Ômega", "Controle mental", "Projeção astral", "Manipulação de memórias"],
+            "inimigos": ["Magneto (rival/aliado)", "Apocalipse", "Cassandra Nova"],
+            "filmes": ["X-Men", "X-Men 2", "X-Men: O Confronto Final", "X-Men: Primeira Classe", "X-Men: Dias de um Futuro Esquecido", "X-Men: Apocalipse", "X-Men: Fênix Negra", "Logan"],
+            "hex_cor": ["#FFD700"],
+            "imagem":[""]
+            },
+            {
+            "nome_do_heroi": "Tempestade",
+            "nome_na_vida_real": "Ororo Munroe",
+            "ocupacao": "Professora, Líder dos X-Men",
+            "poderes": ["Manipulação das forças meteorológicas (clima)", "Voo", "Geração de raios e vendavais"],
+            "inimigos": ["Apocalipse", "Magneto"],
+            "filmes": ["X-Men", "X-Men 2", "X-Men: O Confronto Final", "X-Men: Dias de um Futuro Esquecido", "X-Men: Apocalipse", "X-Men: Fênix Negra"],
+            "hex_cor": ["#1C1C1C"],
+            "imagem":[""]
+            },
+            {
+            "nome_do_heroi": "Ciclope",
+            "nome_na_vida_real": "Scott Summers",
+            "ocupacao": "Líder de Campo dos X-Men, Professor",
+            "poderes": ["Rajadas ópticas de energia concussiva"],
+            "inimigos": ["Sr. Sinistro", "Magneto", "Sentinelas"],
+            "filmes": ["X-Men", "X-Men 2", "X-Men: O Confronto Final", "X-Men: Primeira Classe", "X-Men: Apocalipse", "X-Men: Fênix Negra"],
+            "hex_cor": ["#FFBF00"],
+            "imagem":[""]
+            },
+            {
+            "nome_do_heroi": "Jean Grey",
+            "nome_na_vida_real": "Jean Grey",
+            "ocupacao": "Médica, Professora",
+            "poderes": ["Telepatia", "Telecinese", "Hospedeira da Força Fênix"],
+            "inimigos": ["Magneto", "Mestre Mental", "Sentinelas"],
+            "filmes": ["X-Men", "X-Men 2", "X-Men: O Confronto Final", "X-Men: Dias de um Futuro Esquecido", "X-Men: Apocalipse", "X-Men: Fênix Negra"],
+            "hex_cor": ["#D10000"],
+            "imagem":[""]
+            }
+            ]
+},
+{
+    "equipe": "Guardiões da Galáxia",
+        "herois": [
+            {
+            "nome_do_heroi": "Senhor das Estrelas",
+            "nome_na_vida_real": "Peter Quill",
+            "ocupacao": "Mercenário, Saqueador, Líder do Grupo",
+            "poderes": ["Mestre em combate e táticas", "Uso de pistolas quânticas e botas a jato", "Herança híbrida celestiana (anteriormente)"],
+            "inimigos": ["Ego, o Planeta Vivo", "Ronan, o Acusador", "Alto Evolucionário"],
+            "filmes": ["Guardiões da Galáxia", "Guardiões da Galáxia Vol. 2", "Vingadores: Guerra Infinita", "Vingadores: Ultimato", "Guardiões da Galáxia Vol. 3"],
+            "hex_cor": ["#58111A"],
+            "imagem":[""]
+            },
+            {
+            "nome_do_heroi": "Gamora",
+            "nome_na_vida_real": "Gamora Zen Whoberi Ben Titan",
+            "ocupacao": "Assassina, Mercenária",
+            "poderes": ["Força, agilidade e reflexos aprimorados ciberneticamente", "Mestre em combate corpo a corpo e espadas"],
+            "inimigos": ["Thanos", "Ronan, o Acusador", "Nebulosa (anteriormente)"],
+            "filmes": ["Guardiões da Galáxia", "Guardiões da Galáxia Vol. 2", "Vingadores: Guerra Infinita", "Vingadores: Ultimato", "Guardiões da Galáxia Vol. 3"],
+            "hex_cor": ["#3B7A57"],
+            "imagem":[""]
+            },
+            {
+            "nome_do_heroi": "Drax, o Destruidor",
+            "nome_na_vida_real": "Drax",
+            "ocupacao": "Guerreiro",
+            "poderes": ["Força sobre-humana", "Resistência física elevada", "Especialista no uso de adagas"],
+            "inimigos": ["Ronan, o Acusador", "Thanos"],
+            "filmes": ["Guardiões da Galáxia", "Guardiões da Galáxia Vol. 2", "Vingadores: Guerra Infinita", "Vingadores: Ultimato", "Guardiões da Galáxia Vol. 3"],
+            "hex_cor": ["#708090"],
+            "imagem":[""]
+            },
+            {
+            "nome_do_heroi": "Rocket Raccoon",
+            "nome_na_vida_real": "Rocket (Sujeito 89P13)",
+            "ocupacao": "Piloto, Engenheiro de Armas, Mercenário",
+            "poderes": ["Inteligência genial em engenharia e tecnologia", "Mestre em pontaria e táticas de combate"],
+            "inimigos": ["Alto Evolucionário", "Ronan, o Acusador"],
+            "filmes": ["Guardiões da Galáxia", "Guardiões da Galáxia Vol. 2", "Vingadores: Guerra Infinita", "Vingadores: Ultimato", "Guardiões da Galáxia Vol. 3"],
+            "hex_cor": ["#654321"],
+            "imagem":[""]
+            },
+            {
+            "nome_do_heroi": "Groot",
+            "nome_na_vida_real": "Groot",
+            "ocupacao": "Guarda-costas, Guerreiro",
+            "poderes": ["Manipulação do próprio corpo de madeira (crescimento e regeneração)", "Superforça", "Elasticidade"],
+            "inimigos": ["Ronan, o Acusador", "Alto Evolucionário"],
+            "filmes": ["Guardiões da Galáxia", "Guardiões da Galáxia Vol. 2", "Vingadores: Guerra Infinita", "Vingadores: Ultimato", "Guardiões da Galáxia Vol. 3"],
+            "hex_cor": ["#8B5A2B"],
+            "imagem":[""]
+            }
+            ]
+},
+{
+    "equipe": "Quarteto Fantástico",
+        "herois": [
+            {
+            "nome_do_heroi": "Senhor Fantástico",
+            "nome_na_vida_real": "Reed Richards",
+            "ocupacao": "Cientista, Inventor, Líder do Grupo",
+            "poderes": ["Super-elasticidade corporal", "Inteligência genial (nível intelecto supremo)"],
+            "inimigos": ["Doutor Destino", "Galactus", "Homem-Toupeira", "Aniquilador"],
+            "filmes": ["Quarteto Fantástico (2005)", "Quarteto Fantástico e o Surfista Prateado", "Quarteto Fantástico (2015)"],
+            "cor": "Azul",
+            "hex_cor": ["#0055A5"],
+            "imagem":[""]
+            },
+            {
+            "nome_do_heroi": "Mulher Invisível",
+            "nome_na_vida_real": "Susan Storm Richards",
+            "ocupacao": "Cientista, Professora",
+            "poderes": ["Invisibilidade", "Geração e manipulação de campos de força invisíveis"],
+            "inimigos": ["Doutor Destino", "Galactus", "Super-Skrull"],
+            "filmes": ["Quarteto Fantástico (2005)", "Quarteto Fantástico e o Surfista Prateado", "Quarteto Fantástico (2015)"],
+            "cor": "Azul",
+            "hex_cor": ["#0055A5"],
+            "imagem":[""]
+            },
+            {
+            "nome_do_heroi": "Tocha Humana",
+            "nome_na_vida_real": "Johnny Storm",
+            "ocupacao": "Piloto, Aventureiro",
+            "poderes": ["Pirocinese (geração e controle de fogo)", "Voo", "Absorção de calor"],
+            "inimigos": ["Doutor Destino", "Galactus", "Homem Impossível"],
+            "filmes": ["Quarteto Fantástico (2005)", "Quarteto Fantástico e o Surfista Prateado", "Quarteto Fantástico (2015)"],
+            "hex_cor": ["#FF4500"],
+            "imagem":[""]
+            },
+            {
+            "nome_do_heroi": "O Coisa",
+            "nome_na_vida_real": "Ben Grimm",
+            "ocupacao": "Piloto de Testes, Astronauta",
+            "poderes": ["Força e resistência sobre-humanas", "Corpo revestido por pele rochosa altamente resistente"],
+            "inimigos": ["Doutor Destino", "Galactus", "Homem-Toupeira"],
+            "filmes": ["Quarteto Fantástico (2005)", "Quarteto Fantástico e o Surfista Prateado", "Quarteto Fantástico (2015)"],
+            "hex_cor": ["#E65C00"],
+            "imagem":[""]
+            }
+]
+}
+]
+}
